@@ -27,7 +27,7 @@ if (login) {
       password: password,
     });
     if (error) {
-      alert("كلمة المرور او الايميل غير صحيح");
+      alert("كلمة المرور او الايميل غير صحيح" + error.message);
     } else {
       window.location.href = "home.html";
     }
