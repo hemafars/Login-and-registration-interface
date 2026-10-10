@@ -75,6 +75,6 @@ if (Registration) {
   });
 }
 
-function addToLocalStorg(arrayUser) {
-  localStorage.setItem("users", JSON.stringify(arrayUser));
-}
+// function addToLocalStorg(arrayUser) {
+//   localStorage.setItem("users", JSON.stringify(arrayUser));
+// }
