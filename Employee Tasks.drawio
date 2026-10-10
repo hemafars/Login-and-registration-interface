@@ -1,0 +1,245 @@
+<mxfile host="Electron" pages="2">
+  <diagram name="home page" id="F5fDcM4n1mhY4X5hn1R9">
+    <mxGraphModel dx="1128" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="700" width="850" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-12" parent="1" style="html=1;shadow=0;dashed=0;fillColor=#647687;strokeColor=#314354;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" value="" vertex="1">
+          <mxGeometry height="60" width="850" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-13" parent="gkgriF4bLNGFcK-69Sk5-12" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=none;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;resizeWidth=0;" value="" vertex="1">
+          <mxGeometry height="40" width="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-14" parent="gkgriF4bLNGFcK-69Sk5-13" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=15;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;fontSize=16;" value="employ task" vertex="1">
+          <mxGeometry height="40" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-19" parent="gkgriF4bLNGFcK-69Sk5-12" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;" value="Search" vertex="1">
+          <mxGeometry height="40" relative="1" width="70" x="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-20" parent="gkgriF4bLNGFcK-69Sk5-12" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;align=left;spacing=10;" value="Search" vertex="1">
+          <mxGeometry height="40" relative="1" width="180" x="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-18" parent="gkgriF4bLNGFcK-69Sk5-12" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#9A9DA0;fontSize=14;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;ADD Task&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="85" x="410" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-15" parent="gkgriF4bLNGFcK-69Sk5-12" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;fontSize=14;" value="Home" vertex="1">
+          <mxGeometry height="40" width="60" x="130" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-65" parent="gkgriF4bLNGFcK-69Sk5-12" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;fontSize=14;" value="&lt;b&gt;today&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="340" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="hDpF5NYiCruTn-4Z2K5o-1" parent="gkgriF4bLNGFcK-69Sk5-12" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;fontSize=14;" value="&lt;b&gt;tomoro&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="265" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
+          <mxGeometry height="580" width="190" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;convertToSvg=0;svgWhiteSpace=wrap;fontStyle=4" value="&lt;h2&gt;&lt;b&gt;احدث المهام&lt;/b&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="55" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="10" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="10" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="10" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(#314354,#E6D0DE);fillColor=#647687;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="&lt;h2&gt;ALL TASKS&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="50" width="190" x="410" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="290" x="540" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="290" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-51" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Danger" vertex="1">
+          <mxGeometry height="29" width="60" x="435" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-52" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Success" vertex="1">
+          <mxGeometry height="29" width="60" x="235" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-53" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Warning" vertex="1">
+          <mxGeometry height="29" width="60" x="335" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="290" x="540" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="210" width="290" x="220" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-56" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Danger" vertex="1">
+          <mxGeometry height="29" width="60" x="755" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-57" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Success" vertex="1">
+          <mxGeometry height="29" width="60" x="555" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-58" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Warning" vertex="1">
+          <mxGeometry height="29" width="60" x="655" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-59" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Danger" vertex="1">
+          <mxGeometry height="29" width="60" x="435" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-60" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Success" vertex="1">
+          <mxGeometry height="29" width="60" x="235" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-61" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Warning" vertex="1">
+          <mxGeometry height="29" width="60" x="335" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-62" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Danger" vertex="1">
+          <mxGeometry height="29" width="60" x="755" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-63" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Success" vertex="1">
+          <mxGeometry height="29" width="60" x="555" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="gkgriF4bLNGFcK-69Sk5-64" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#FFBC26;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Warning" vertex="1">
+          <mxGeometry height="29" width="60" x="655" y="536" as="geometry" />
+        </mxCell>
+        <mxCell id="cCsp5WjBbT-wbLEthR5i-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
+          <mxGeometry height="60" width="850" y="640" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3cewFgJg2XAtd4DX-ZXH" name="ADD Task">
+    <mxGraphModel dx="1128" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YQ6lLzuZp5qaMlqH7D1--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);" value="" vertex="1">
+          <mxGeometry height="670" width="850" as="geometry" />
+        </mxCell>
+        <mxCell id="YQ6lLzuZp5qaMlqH7D1--11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
+          <mxGeometry height="600" width="190" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YQ6lLzuZp5qaMlqH7D1--12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;convertToSvg=0;svgWhiteSpace=wrap;fontStyle=4" value="&lt;h2&gt;&lt;b&gt;احدث المهام&lt;/b&gt;&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="55" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YQ6lLzuZp5qaMlqH7D1--13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="10" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="YQ6lLzuZp5qaMlqH7D1--14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="10" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YQ6lLzuZp5qaMlqH7D1--15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="10" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="YQ6lLzuZp5qaMlqH7D1--16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;align=right;verticalAlign=top;" value="&amp;nbsp;ابراهيم بسيوني&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;&amp;nbsp;ارسال خطاب لمنطقة القناة وسيناء بخصوص استيفاء بيانات الميل المرسل ...&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;تاريخ المهمه : 10/10/2022&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="10" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_WLK_nvKJBnvWZnuXO7Y-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="550.5" as="sourcePoint" />
+            <mxPoint x="355" y="550.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WLK_nvKJBnvWZnuXO7Y-3" parent="1" style="shape=stencil(rZjbbtswDIafxrcEJepAXXfdexRougTLmiLNTm8/eZ6SiIr/bMDuXPejwjMpT/Lwvn1620ye30/Hw+fN993zaTvJh8n73et2c9yd6tMkj5M8vByOm0/Hw9fX5+Xvt6eZnJ++HL7NJ/xY5EqhkGYpzz+XN45K+f3i48Lvd6/XfCBxHR+IwzqvkYQ7XsnzOp89sdEnkPp1gZisQl6IgUBgSv0viCOX1wWqxn/OOwtkUmCzqz6NvY88BQECgXzpBSJl4CXnKOZeoLo1grA1hRsfa5hR2Ei05xNFBWEj7i1Ornn5dtQo90FLmQLQJ1Dq9al5EkHMhHLvn4xD5qn0IVahAMrAN2+feaUE9HGkvb1FyKGMoNjnaEnQ3spLzxdYlo5CtryAeDmSYPkE8q1WVLK8gvPZ+r/yBeQb23yYeRAvbtl1zYMCY/KDPzNoKkxcLB+AfyrvLO9AvEZeW0b9pT5KEdsbLO+hPqbDVZ6hvcnok6mAfK75IAMP4jvmm5ID/qn5POgvsB6DWj7B8209arNoje+nZM0HD+sxDHyEvB/qS9GAIR7OLzC+2Uxt5nbEikAcCx4mnAwKZVjwbijgiAty4NFA5cFB2lrYf+KdKZjURvJaQZqG7kmhf+zA0zsDIPb6KB5g3jaIjAe8kJiB7cmB/AkUzAKRqICCjHYhqAsKgwaUbf7ESAr8r7bBxeph5M+hYkKCHd1J2wjPAqGtyrcFtBXUWaD+JgpZptj7VBKMcT3P9UH2eOrNPuxtmBsTWiuHPai6Ac0ZrZeFPm64bOoapn1j982m23yxg5jhnjV3EbY8SOt5DVPLgzZxaftXPLq+Fbt4c5sMa7y5OHCbPGt8sTyak5e17cLDqxUPjdTdM7hkw6NBPxtcDI/mxuxQe37GfBLDo0X0n+/nd/n6cPkY8LLb75dvCdf/tx8P6qvlw4M8/gI=);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="185.00622546491013" width="246.22494882025876" x="524.9907652320728" y="175.11582395524306" as="geometry" />
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-24" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;fontSize=14;" value="10/10/2010" vertex="1">
+          <mxGeometry height="40" width="460" x="230" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-27" parent="CSbxngqv9tMv-kD-yMlJ-24" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" value="تاريخ اليوم" vertex="1">
+          <mxGeometry height="40" relative="1" width="85" x="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-28" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;fontSize=14;" value="11/10/2010" vertex="1">
+          <mxGeometry height="40" width="460" x="230" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-29" parent="CSbxngqv9tMv-kD-yMlJ-28" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" value="تاريخ المهمه" vertex="1">
+          <mxGeometry height="40" relative="1" width="85" x="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-30" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;fontSize=14;" value="اختر المختص" vertex="1">
+          <mxGeometry height="40" width="460" x="230" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-31" parent="CSbxngqv9tMv-kD-yMlJ-30" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" value="المختص" vertex="1">
+          <mxGeometry height="40" relative="1" width="85" x="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-32" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;fontSize=14;" value="اختر العقار" vertex="1">
+          <mxGeometry height="40" width="460" x="230" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-33" parent="CSbxngqv9tMv-kD-yMlJ-32" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" value="العقار" vertex="1">
+          <mxGeometry height="40" relative="1" width="85" x="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-39" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;fontSize=14;" value="اختر الوحدة" vertex="1">
+          <mxGeometry height="40" width="460" x="230" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-40" parent="CSbxngqv9tMv-kD-yMlJ-39" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" value="الوحدة" vertex="1">
+          <mxGeometry height="40" relative="1" width="85" x="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-41" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=right;spacing=15;fontSize=14;" value="المطلوب" vertex="1">
+          <mxGeometry height="110" width="460" x="230" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CSbxngqv9tMv-kD-yMlJ-42" parent="CSbxngqv9tMv-kD-yMlJ-41" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=15;" value="المطلوب" vertex="1">
+          <mxGeometry height="110" relative="1" width="85" x="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lECM4hf-GwydHxK20uXJ-1" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Save&amp;nbsp;" vertex="1">
+          <mxGeometry height="29" width="275" x="230" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="lECM4hf-GwydHxK20uXJ-2" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" value="Save as draft" vertex="1">
+          <mxGeometry height="30" width="260" x="520" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="mr3tLHyjlcpam8HXASHV-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="" vertex="1">
+          <mxGeometry height="60" width="850" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-1" parent="1" style="html=1;shadow=0;dashed=0;fillColor=#647687;strokeColor=#314354;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" value="" vertex="1">
+          <mxGeometry height="60" width="850" as="geometry" />
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-2" parent="L9uVGaoPnCryva1127MQ-1" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=none;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;resizeWidth=0;" value="" vertex="1">
+          <mxGeometry height="40" width="120" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-3" parent="L9uVGaoPnCryva1127MQ-2" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=15;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;fontSize=16;" value="employ task" vertex="1">
+          <mxGeometry height="40" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-4" parent="L9uVGaoPnCryva1127MQ-1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;" value="Search" vertex="1">
+          <mxGeometry height="40" relative="1" width="70" x="1" as="geometry">
+            <mxPoint x="-80" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-5" parent="L9uVGaoPnCryva1127MQ-1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#ffffff;strokeColor=#314354;fillColor=#647687;align=left;spacing=10;" value="Search" vertex="1">
+          <mxGeometry height="40" relative="1" width="180" x="1" as="geometry">
+            <mxPoint x="-270" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-6" parent="L9uVGaoPnCryva1127MQ-1" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#9A9DA0;fontSize=14;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;ADD Task&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="85" x="410" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-7" parent="L9uVGaoPnCryva1127MQ-1" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;fontSize=14;" value="Home" vertex="1">
+          <mxGeometry height="40" width="60" x="130" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-8" parent="L9uVGaoPnCryva1127MQ-1" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;fontSize=14;" value="&lt;b&gt;today&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="340" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="L9uVGaoPnCryva1127MQ-9" parent="L9uVGaoPnCryva1127MQ-1" style="text;strokeColor=none;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#ffffff;fontSize=14;" value="&lt;b&gt;tomoro&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="265" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="8VseCWlgMD1uWWw7k6L5-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(#314354,#E6D0DE);fillColor=#647687;align=center;verticalAlign=middle;rounded=0;fontColor=#ffffff;" value="&lt;h2&gt;ALL TASKS&lt;/h2&gt;" vertex="1">
+          <mxGeometry height="50" width="190" x="400" y="85" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
