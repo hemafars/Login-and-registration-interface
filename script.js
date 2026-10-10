@@ -1,6 +1,6 @@
 import { createClient } from "@supabase/supabase-js";
-const supabaseUrl = "https://yixjcesfamudvyxdaiua.supabase.co/rest/v1/";
-const supabaseKey = sb_publishable_msyeBbAgS2Ctr7X - ofDSwQ__42yNDAu;
+const supabaseUrl = "https://yixjcesfamudvyxdaiua.supabase.co";
+const supabaseKey = "sb_publishable_msyeBbAgS2Ctr7X-ofDSwQ__42yNDAu";
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 let emailLogin = document.getElementById("email");
